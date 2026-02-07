@@ -35,6 +35,7 @@ Each playlist is assigned a sentiment score (positive, negative, or neutral).
 Sentiment is used as an additional feature to capture user intent.
 
 3. Recommendation Models
+
 🔹 Denoising Autoencoder (DAE)
 
 Learns robust representations by reconstructing playlists from corrupted inputs.
@@ -42,6 +43,7 @@ Learns robust representations by reconstructing playlists from corrupted inputs.
 Helps the model focus on essential playlist patterns.
 
 Uses Mean Squared Error (MSE) as the loss function.
+
 
 🔹 Variational Autoencoder (VAE)
 
