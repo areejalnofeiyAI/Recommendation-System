@@ -6,7 +6,7 @@ The project analyzes Spotify playlists from the Million Playlist Dataset (MPD) t
 
 📌 Project Overview
 
-Music playlists are more than just a list of songs — they reflect mood, taste, and listening behavior.
+Music playlists are more than just a list of songs; they reflect mood, taste, and listening behavior.
 This project aims to capture these hidden patterns by combining:
 
 Deep learning models (DAE & VAE)
@@ -84,3 +84,5 @@ NLP: AFINN
 Machine Learning: Scikit-learn
 
 Visualization: Matplotlib, Seaborn, Plotly
+
+
